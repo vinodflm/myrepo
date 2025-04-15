@@ -7,7 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>maven-java17-example</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>Maven Java 17 Example</name>
     <description>A simple Java project using Maven 3.9.6 with Java 17</description>
